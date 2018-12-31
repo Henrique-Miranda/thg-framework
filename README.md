@@ -1,39 +1,39 @@
 ## THG-FRAMEWORK
-# projeto
-projeto  contruido para ser uma aplicacao de desenvolvimento e explorar de sistema  operacionais, contruido na linguagem python3.x poderar ser atualizado para as novas 
-versoes python x.x no decorrer da evolucao da aplicacao e do python 
+# Projeto
+Projeto  contruido para ser uma aplicacao de desenvolvimento e exploração de sistemas  operacionais, contruído na linguagem python3.x, poderar ser atualizado para as novas 
+versões python x.x no decorrer da evolucao da aplicacao e do python. 
 
-# instalacao
-apenas rode esse comando e o python irar fazer todo o trabalho para voce, instalacao simples e rapida
+# Instalacao
+Apenas rode esse comando e o python irá fazer todo o trabalho para você, instalacão simples e rápida.
 ```python
 python3 setup.py
 ```
-# uso
-apos voce instalar o thg rode o comando
+# Uso
+Após você instalar o thg rode o comando:
 ```python
 python3 thgconsole.py
 ```
 
-# fotos do terminal
+# Fotos do terminal
 ![logo](https://github.com/darkcode357/thg-framework/blob/master/fotos/thg.png)
 
-# documentacao completa
+# Documentacao completa
 => https://darkcode357.github.io/thg-framework/
 
-# como contribuir:
-entre no  site do thg veja como contribuir para o codigo
+# Como contribuir:
+Entre no  site do thg veja como contribuir para o código
 => https://darkcode357.github.io/thg-framework/contributing/get-started/
 
-# Credits:
+# Créditos:
 
 | devs          | name nick     |
 | ------------- |:-------------:|
 | master dev    | darkcode0x00  |
 
-# futuras atualizacoes
-cada check com x significa que o comando foi  adicionado a aplicacao, se o comando estiver com os
+# Futuras atualizacoes
+Cada check com x significa que o comando foi  adicionado a aplicação, se o comando estiver com os
 colchetes estiverem vazios, signficia que precisa ser implementado
-segue a lista de comandos abaixo
+segue a lista de comandos abaixo.
 
 # Alias Commands
 
